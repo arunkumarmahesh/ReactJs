@@ -1,0 +1,28 @@
+{
+  "allSkidays": [
+    {
+      "resort": "Mahesh",
+      "date": "2016-02-07",
+      "power": true,
+      "backcountry": false
+    },
+    {
+      "resort": "Arun",
+      "date": "2016-02-10",
+      "power": true,
+      "backcountry": false
+    },
+    {
+      "resort": "Kumar",
+      "date": "2016-02-17",
+      "power": true,
+      "backcountry": false
+    }
+  ],
+  "goal": 10,
+  "errors": [],
+  "resortNames": {
+    "fetching": false,
+    "suggestions": ["Amullu", "MAHESH", "stowe", "pellam"]
+  }
+}
